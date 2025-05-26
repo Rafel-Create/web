@@ -1,0 +1,13 @@
+html, html * {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.mainBg {
+  background-color: #ff0000 !important;
+}
+
+.h100 {
+  height: 100px !important;
+}/*# sourceMappingURL=main.css.map */
